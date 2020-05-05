@@ -1,0 +1,27 @@
+{
+  "name": "newman-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1",
+    "newman": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamzanwar/hapi-newman-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamzanwar/hapi-newman-test/issues"
+  },
+  "homepage": "https://github.com/shubhamzanwar/hapi-newman-test#readme"
+}
