@@ -11,7 +11,8 @@
     "newman": "^5.0.0"
   },
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
